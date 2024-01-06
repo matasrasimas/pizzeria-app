@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+.success-hdr {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    letter-spacing: 2px;
+    font-size:28px;
+}
+
+.success-txt {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color: rgb(31 41 55);
+    text-align:center;
+    letter-spacing: 2px;
+    font-size:18px;
+}

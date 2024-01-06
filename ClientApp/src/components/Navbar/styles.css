@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@400;700&family=Sono:wght@300&display=swap');
+
+.navbar-hdr {
+    font-family: 'Bebas Neue';
+    font-size: 1.25rem;
+    letter-spacing:3px;
+    cursor: pointer;
+
+}
+
+.navbar-ul-item {
+    font: 600 16px 'Roboto';
+    cursor: pointer;
+    transition: color 0.3s ease-in;
+}
+.navbar-ul-item:hover {
+    color: yellow;
+}
